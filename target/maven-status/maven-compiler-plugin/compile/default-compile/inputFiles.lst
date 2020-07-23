@@ -1,0 +1,8 @@
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/Application.java
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/processor/IBaseProcessor.java
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/processor/impl/BigramProcessor.java
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/processor/impl/HistogramProcessor.java
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/processor/impl/ResultPrinterProcessor.java
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/processor/impl/WordProcessor.java
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/data/Bigram.java
+/Users/frantisek.geletka/dev/assignment/src/main/java/com/creatix/assignment/configuration/AppConfiguration.java

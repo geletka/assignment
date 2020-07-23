@@ -1,0 +1,8 @@
+com/creatix/assignment/processor/impl/HistogramProcessor.class
+com/creatix/assignment/processor/impl/BigramProcessor.class
+com/creatix/assignment/processor/impl/ResultPrinterProcessor.class
+com/creatix/assignment/processor/IBaseProcessor.class
+com/creatix/assignment/configuration/AppConfiguration.class
+com/creatix/assignment/data/Bigram.class
+com/creatix/assignment/processor/impl/WordProcessor.class
+com/creatix/assignment/Application.class
